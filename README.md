@@ -11,7 +11,7 @@ El usuario puede navegar por el sitio sin necesidad de registrarse.
 <img src="screenshot/01_portada.png"/>
 <br>
 <br>
-<img src="screenshot/01_portada.png"/>
+<img src="screenshot/02_portada2.png"/>
 <br>
 Algunas pestañas son,
 <br>
